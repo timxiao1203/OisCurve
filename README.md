@@ -1,1 +1,2 @@
 # OisCurve
+Overnight index swaps (OIS) curves became the market standard for discounting collateralized cashflows. The reason often given for using the OIS rate as the discount rate is that it is derived from the fed funds rate and the fed funds rate is the interest rate usually paid on collateral. As such the fed funds rate and OIS rate are the relevant funding rates for collateralized transactions.
