@@ -61,6 +61,10 @@ Optimization
 
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/IrCurveIntroduction.html
+
+https://bitbucket.org/timxiao1203/irois/downloads/IrOIS-4.pdf
+
 
